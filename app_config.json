@@ -1,0 +1,6 @@
+{
+  "server_ip": "127.0.0.1",
+  "primary_number": "1111111111",
+  "secondary_number": "0000000000",
+  "listen_port": 6001
+}
